@@ -13,24 +13,32 @@
 ## Features
 - Insert list of features here
 
+[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
 
 
+> GIF Tools
 
-## Screenshots
-<img src="https://github.com/akshatvg/common-entry-test/raw/master/static/img/header.png" alt="Project Screenshots">
+- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
+- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
 
-## Instructions to run
+**Recordit**
 
-```
-$ git clone https://github.com/CodeChefVIT/<Project>
-$ cd <Project>
-$ pip3 install -r requirements.txt
-$ python3 manage.py runserver
-```
+![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
 
-## Contributors
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
+**ttystudio**
+
+![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
+
+
+---
+
+## Installation
+
+- Insert requirements
+- All the `code` required to get started
+
+---
+
 
 ## License
 
